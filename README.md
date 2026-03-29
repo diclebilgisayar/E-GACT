@@ -28,7 +28,7 @@ The proposed architecture.
 
 <p align="center">
   <img src="E-GACT Architecture.jpg" width="95%">
-  <br><em>Fig 1: Overall workflow of the Reti-TransNet architecture.</em>
+  <br><em>Fig 1: Overall workflow of the E-GACT architecture.</em>
 </p>
 
 ---
