@@ -22,6 +22,16 @@ Predicting Type 2 Diabetes Mellitus (T2DM) from tabular Electronic Health Record
 🔥 **Edge AI Ready:** With only **0.45M learnable parameters**, E-GACT operates with $<45$ ms inference latency on standard clinical microprocessors, making it highly suitable for zero-latency, privacy-preserving local Edge AI deployments.
 
 ---
+## 🏗️ Architecture
+
+The proposed architecture.
+
+<p align="center">
+  <img src="E-GACT Architecture.jpg" width="95%">
+  <br><em>Fig 1: Overall workflow of the Reti-TransNet architecture.</em>
+</p>
+
+---
 
 ## 📊 Benchmarked Datasets
 To prove algorithmic robustness and scalability across varying modalities, E-GACT is evaluated on three globally validated, open-access cohorts:
