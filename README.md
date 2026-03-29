@@ -1,9 +1,7 @@
-<h1 align="center">🚀 E-GACT</h1>
-
-<p align="center">
-  Resource-Efficient Graph-Aware Contrastive Transformer<br>
-  Advanced Graph Representation Learning Framework
-</p>
+<h1 align="center">
+  🚀 Resource-Efficient Graph-Aware Contrastive Transformer <br>
+  (E-GACT)
+</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
